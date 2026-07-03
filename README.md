@@ -1,3 +1,5 @@
+[Switch to English Version 🇬🇧](en.html)
+
 # [SOCMINT] Profilage & Ingénierie Sociale : Comment j'ai retrouvé un compte Instagram "anonyme" grâce à la nostalgie sur LinkedIn
 
 ## Le défi
