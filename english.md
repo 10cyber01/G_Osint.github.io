@@ -1,4 +1,4 @@
-[Passer à la version française 🇫🇷](index.html)
+[Passer à la version française 🇫🇷](index.md)
 
 
 # [SOCMINT] Profiling & Social Engineering: How I tracked down an "anonymous" Instagram account using LinkedIn nostalgia
